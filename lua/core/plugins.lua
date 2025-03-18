@@ -37,6 +37,7 @@ local plugins = {
 --   "rafamadriz/friendly-snippets",
    {'akinsho/toggleterm.nvim', version = "*", config = true},
     'UtkarshVerma/molokai.nvim',
+    "blazkowolf/gruber-darker.nvim",
 }
 
 local opt = {}
